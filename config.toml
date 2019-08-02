@@ -199,4 +199,4 @@ canonifyurls = true
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>."
   [params.footer]
-     copyright = "Feito com <3 por <a href=\"https://github.com/gitlherme\">Guilherme Vieira</a>"
+     copyright = "Feito por <a href=\"https://github.com/kakawait\"> kakawait </a> e editado com &#128420; por <a href=\"https://github.com/gitlherme\">Guilherme Vieira</a> | Licenciado por <a href=\"https://creativecommons.org/licenses/by/4.0\">Creative Commons</a>"
