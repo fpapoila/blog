@@ -1,6 +1,6 @@
 ---
 title: "O que eu aprendi no meu primeiro ano participando de hackathons"
-date: 2019-12-19T17:00:08-03:00
+date: 2018-12-19T17:00:08-03:00
 #thumbnailImage: //example.com/image.jpg
 ---
 O ano de 2018 foi um ano de muito aprendizado profissional para mim, especialmente devido as minhas participações em hackathons.
