@@ -1,6 +1,6 @@
 ---
 title: "Como adicionar o efeito parallax em suas páginas da forma mais simples possível"
-date: 2019-08-02T16:56:49-03:00
+date: 2018-09-23T16:56:49-03:00
 
 #thumbnailImage: //example.com/image.jpg
 ---
