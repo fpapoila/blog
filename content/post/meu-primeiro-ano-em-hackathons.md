@@ -76,7 +76,7 @@ Nesse grupo sempre rola conversas sobre os eventos, além de sempre expor quais 
 
 Obrigado por terem lido até aqui, caso queiram podem me encontrar nas redes sociais.
 
-[Twitter](http://twitter.com/vieirito)
+[Twitter](http://twitter.com/gitlherme)
 
 [Facebook](https://fb.com/guih.dev)
 
