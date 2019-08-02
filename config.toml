@@ -31,7 +31,7 @@ canonifyurls = true
 
 [author]
   name = "Guilherme Vieira"
-  bio = "Front-end Dev. | JS | perifaCode"
+  bio = "Front-end Dev. | perifaCode"
   job = "Front-end Developer"
   location = "Brasil"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
