@@ -17,7 +17,7 @@ defaultContentLanguage = "pt-br"
 title = "Guilherme Vieira"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-145088235-1"
 paginate = 7
 canonifyurls = true
 
@@ -31,7 +31,7 @@ canonifyurls = true
 
 [author]
   name = "Guilherme Vieira"
-  bio = "Front-end Dev. | perifaCode"
+  bio = "Front-end Dev. | <a href='google.com'>perifaCode</a>"
   job = "Front-end Developer"
   location = "Brasil"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -197,6 +197,6 @@ canonifyurls = true
   # [params.sidebar.profile]
   #   url = "/#about"
 
-  # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  # [params.footer]
-  #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+  # Customize copyright value "© 2017 <CUSTOMIZATION>."
+  [params.footer]
+     copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
