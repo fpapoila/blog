@@ -44,7 +44,7 @@ O último passo, é entrar no arquivo **config.toml **e definir que o tema que 
 
 ![](https://res.cloudinary.com/gitlherme/image/upload/v1565108321/blog/como-e-porque-criei-meu-blog-usando-hugo/Screenshot_3_qlsjsu.png)
 
-É legal ter em mente que alguns temas tem um site de exemplo dentro do próprio tema, assim você consegue visualizar melhor como configurar o próprio tema 😄.
+É legal ter em mente que alguns temas tem um site de exemplo dentro da sua própria pasta, assim você consegue visualizar como configurar o tema da melhor forma possível 😄.
 
 Agora, para visualizarmos tudo que fizemos, usamos o comando `hugo server`.
 
